@@ -1,0 +1,16 @@
+C:\Users\zonaa\Music\StarSeries\obj\Debug\net5.0\StarSeries.csprojAssemblyReference.cache
+C:\Users\zonaa\Music\StarSeries\obj\Debug\net5.0\StarSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zonaa\Music\StarSeries\obj\Debug\net5.0\StarSeries.AssemblyInfoInputs.cache
+C:\Users\zonaa\Music\StarSeries\obj\Debug\net5.0\StarSeries.AssemblyInfo.cs
+C:\Users\zonaa\Music\StarSeries\obj\Debug\net5.0\StarSeries.csproj.CoreCompileInputs.cache
+C:\Users\zonaa\Music\StarSeries\bin\Debug\net5.0\StarSeries.exe
+C:\Users\zonaa\Music\StarSeries\bin\Debug\net5.0\StarSeries.deps.json
+C:\Users\zonaa\Music\StarSeries\bin\Debug\net5.0\StarSeries.runtimeconfig.json
+C:\Users\zonaa\Music\StarSeries\bin\Debug\net5.0\StarSeries.runtimeconfig.dev.json
+C:\Users\zonaa\Music\StarSeries\bin\Debug\net5.0\StarSeries.dll
+C:\Users\zonaa\Music\StarSeries\bin\Debug\net5.0\ref\StarSeries.dll
+C:\Users\zonaa\Music\StarSeries\bin\Debug\net5.0\StarSeries.pdb
+C:\Users\zonaa\Music\StarSeries\obj\Debug\net5.0\StarSeries.dll
+C:\Users\zonaa\Music\StarSeries\obj\Debug\net5.0\ref\StarSeries.dll
+C:\Users\zonaa\Music\StarSeries\obj\Debug\net5.0\StarSeries.pdb
+C:\Users\zonaa\Music\StarSeries\obj\Debug\net5.0\StarSeries.genruntimeconfig.cache
